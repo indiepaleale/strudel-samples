@@ -2,6 +2,10 @@
     "_base": "https://raw.githubusercontent.com/indiepaleale/strudel-samples/main/",
     "bianzhong":"bianzhong/bianzhong.wav",
     "gz":{
+        "A3":"guzheng/guzheng_note_midhigh_A.wav",
+        "B3":"guzheng/guzheng_note_midhigh_B.wav",
+        "D4":"guzheng/guzheng_note_midhigh_D.wav",
+        "E3":"guzheng/guzheng_note_midhigh_E.wav",
         "G3":"guzheng/guzheng_note_midhigh_G.wav"
     }
     
