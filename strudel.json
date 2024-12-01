@@ -51,5 +51,11 @@
         "yunluo": [
             "yunluo/yunluo_long.wav",
             "yunluo/yunluo_short.wav"
+        ],
+        "shougu":[
+            "shougu/shougu1_01.wav",
+            "shougu/shougu1_02.wav",
+            "shougu/shougu2_01.wav",
+            "shougu/shougu2_02.wav"
         ]
     }
