@@ -1,26 +1,31 @@
 {
     "_base": "https://raw.githubusercontent.com/indiepaleale/strudel-samples/main/",
-    "bianzhong":"bianzhong/bianzhong.wav",
-    "fengluo":[
+    "bianzhong": "bianzhong/bianzhong.wav",
+    "fengluo": [
         "fengluo/fengluo_01.wav",
         "fengluo/fengluo_02.wav"
     ],
-    "guzheng":{
-        "A3":"guzheng/guzheng_note_midhigh_A.wav",
-        "B3":"guzheng/guzheng_note_midhigh_B.wav",
-        "D4":"guzheng/guzheng_note_midhigh_D.wav",
-        "E3":"guzheng/guzheng_note_midhigh_E.wav",
-        "G3":"guzheng/guzheng_note_midhigh_G.wav"
+    "guqin": {
+        "A3": "guqin/guqin_tone_A.wav",
+        "C3": "guqin/guqin_tone_C.wav",
+        "D3": "guqin/guqin_tone_D.wav",
+        "F3": "guqin/guqin_tone_F.wav"
     },
-    "hulusi":{
-        "A4":"hulusi/A_A4ShortHulusi_01_541.wav",
-        "B4":"hulusi/B_B4ShortHulusi_01_541.wav",
-        "D5":"hulusi/D_D5ShortHulusi_01_541.wav",
-        "E5":"hulusi/E_E5ShortHulusi_01_541.wav"
+    "guzheng": {
+        "A3": "guzheng/guzheng_note_midhigh_A.wav",
+        "B3": "guzheng/guzheng_note_midhigh_B.wav",
+        "D4": "guzheng/guzheng_note_midhigh_D.wav",
+        "E3": "guzheng/guzheng_note_midhigh_E.wav",
+        "G3": "guzheng/guzheng_note_midhigh_G.wav"
     },
-    "yunluo":[
+    "hulusi": {
+        "A4": "hulusi/A_A4ShortHulusi_01_541.wav",
+        "B4": "hulusi/B_B4ShortHulusi_01_541.wav",
+        "D5": "hulusi/D_D5ShortHulusi_01_541.wav",
+        "E5": "hulusi/E_E5ShortHulusi_01_541.wav"
+    },
+    "yunluo": [
         "yunluo/yunluo_long.wav",
         "yunluo/yunluo_short.wav"
     ]
-    
 }
