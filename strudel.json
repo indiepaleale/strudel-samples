@@ -57,5 +57,11 @@
             "shougu/shougu1_02.wav",
             "shougu/shougu2_01.wav",
             "shougu/shougu2_02.wav"
+        ],
+        "tanggu":[
+            "tanggu/tanggu1_01.wav",
+            "tanggu/tanggu1_02.wav",
+            "tanggu/tanggu2_01.wav",
+            "tanggu/tanggu2_02.wav"
         ]
     }
