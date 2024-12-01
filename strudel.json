@@ -11,11 +11,8 @@
     "hulusi":{
         "A4":"hulusi/A_A4ShortHulusi_01_541.wav",
         "B4":"hulusi/B_B4ShortHulusi_01_541.wav",
-        "C#5":"hulusi/C#_C#5ShortHulusi_01_541.wav",
         "D5":"hulusi/D_D5ShortHulusi_01_541.wav",
-        "E5":"hulusi/E_E5ShortHulusi_01_541.wav",
-        "F#5":"hulusi/F#_F#5ShortHulusi_01_541.wav",
-        "G#5":"hulusi/G#_G#5ShortHulusi_01_541.wav"
+        "E5":"hulusi/E_E5ShortHulusi_01_541.wav"
     }
     
 }
