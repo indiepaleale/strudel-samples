@@ -28,9 +28,9 @@
         "A1": "pipa/pipa_tone_A_01.wav",
         "A2": "pipa/pipa_tone_A_02.wav",
         "A3": "pipa/pipa_tone_A_03.wav",
-        "D1": "pipa/pipa_tone_D_01.wav",
-        "D2": "pipa/pipa_tone_D_02.wav",
-        "D3": "pipa/pipa_tone_D_03.wav"
+        "D2": "pipa/pipa_tone_D_01.wav",
+        "D3": "pipa/pipa_tone_D_02.wav",
+        "D4": "pipa/pipa_tone_D_03.wav"
     },
     "xiao0": {
         "A4": "xiao/A_A4LongXiao_01_541.wav",
