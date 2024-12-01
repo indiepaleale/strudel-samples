@@ -1,4 +1,5 @@
 {
-    "guzheng":"guzheng/16bit.wav",
-    "expire":"chungking-express/expire.wav"
+    "_base": "https://raw.githubusercontent.com/indiepaleale/strudel-samples/main/",
+    "guzheng":"guzheng/guzheng_note_midhigh_A.wav"
+    
 }
