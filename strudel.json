@@ -8,7 +8,6 @@
     "guqin": {
         "A3": "guqin/guqin_tone_A.wav",
         "C3": "guqin/guqin_tone_C.wav",
-        "D3": "guqin/guqin_tone_D.wav",
         "F3": "guqin/guqin_tone_F.wav"
     },
     "guzheng": {
