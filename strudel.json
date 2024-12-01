@@ -35,15 +35,11 @@
     "xiao": {
         "A4": "xiao/A_A4LongXiao_01_541.wav",
         "A5": "xiao/A_A5LongXiao_01_541.wav",
-        "B4": "xiao/B_B4LongXiao_01_541.wav",
-        "B5": "xiao/B_B5LongXiao_01_541.wav",
         "C5": "xiao/C_C5LongXiao_01_541.wav",
         "D4": "xiao/D_D4LongXiao_01_541.wav",
         "D5": "xiao/D_D5LongXiao_01_541.wav",
         "E4": "xiao/E_E4LongXiao_01_541.wav",
-        "E5": "xiao/E_E5LongXiao_01_541.wav",
-        "G4": "xiao/G_G4LongXiao_01_541.wav",
-        "G5": "xiao/G_G5LongXiao_01_541.wav"
+        "G4": "xiao/G_G4LongXiao_01_541.wav"
     },
         "yunluo": [
             "yunluo/yunluo_long.wav",
