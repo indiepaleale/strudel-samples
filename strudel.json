@@ -17,6 +17,10 @@
         "B4":"hulusi/B_B4ShortHulusi_01_541.wav",
         "D5":"hulusi/D_D5ShortHulusi_01_541.wav",
         "E5":"hulusi/E_E5ShortHulusi_01_541.wav"
-    }
+    },
+    "yunluo":[
+        "yunluo/yunluo_long.wav",
+        "yunluo/yunluo_short.wav"
+    ]
     
 }
