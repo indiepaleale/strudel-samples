@@ -24,16 +24,31 @@
         "D5": "hulusi/D_D5ShortHulusi_01_541.wav",
         "E5": "hulusi/E_E5ShortHulusi_01_541.wav"
     },
-    "pipa":{
-        "A1":"pipa/pipa_tone_A_01.wav",
-        "A2":"pipa/pipa_tone_A_02.wav",
-        "A3":"pipa/pipa_tone_A_03.wav",
-        "D1":"pipa/pipa_tone_D_01.wav",
-        "D2":"pipa/pipa_tone_D_02.wav",
-        "D3":"pipa/pipa_tone_D_03.wav"
+    "pipa": {
+        "A1": "pipa/pipa_tone_A_01.wav",
+        "A2": "pipa/pipa_tone_A_02.wav",
+        "A3": "pipa/pipa_tone_A_03.wav",
+        "D1": "pipa/pipa_tone_D_01.wav",
+        "D2": "pipa/pipa_tone_D_02.wav",
+        "D3": "pipa/pipa_tone_D_03.wav"
     },
-    "yunluo": [
-        "yunluo/yunluo_long.wav",
-        "yunluo/yunluo_short.wav"
-    ]
-}
+    "xiao": {
+        "A4": "xiao/A_A4LongXiao_01_541.wav",
+        "A5": "xiao/A_A5LongXiao_01_541.wav",
+        "B4": "xiao/B_B4LongXiao_01_541.wav",
+        "B5": "xiao/B_B5LongXiao_01_541.wav",
+        "C5": "xiao/C_C5LongXiao_01_541.wav",
+        "D4": "xiao/D_D4LongXiao_01_541.wav",
+        "D5": "xiao/D_D5LongXiao_01_541.wav",
+        "E4": "xiao/E_E4LongXiao_01_541.wav",
+        "E5": "xiao/E_E5LongXiao_01_541.wav",
+        "F4": "xiao/F_F#4LongXiao_01_541.wav",
+        "F5": "xiao/F_F#5LongXiao_01_541.wav",
+        "G4": "xiao/G_G4LongXiao_01_541.wav",
+        "G5": "xiao/G_G5LongXiao_01_541.wav"
+    },
+        "yunluo": [
+            "yunluo/yunluo_long.wav",
+            "yunluo/yunluo_short.wav"
+        ]
+    }
