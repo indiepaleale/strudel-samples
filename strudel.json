@@ -63,5 +63,9 @@
             "tanggu/tanggu1_02.wav",
             "tanggu/tanggu2_01.wav",
             "tanggu/tanggu2_02.wav"
+        ],
+        "bangu":[
+            "bangu/bangu_01.wav",
+            "bangu/bangu_02.wav"
         ]
     }
