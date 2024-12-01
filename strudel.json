@@ -32,7 +32,7 @@
         "D2": "pipa/pipa_tone_D_02.wav",
         "D3": "pipa/pipa_tone_D_03.wav"
     },
-    "xiao": {
+    "xiao0": {
         "A4": "xiao/A_A4LongXiao_01_541.wav",
         "A5": "xiao/A_A5LongXiao_01_541.wav",
         "C5": "xiao/C_C5LongXiao_01_541.wav",
@@ -40,6 +40,14 @@
         "D5": "xiao/D_D5LongXiao_01_541.wav",
         "E4": "xiao/E_E4LongXiao_01_541.wav",
         "G4": "xiao/G_G4LongXiao_01_541.wav"
+    },
+    "xiaonvb":{
+        "A1":"xiaonvb/xiao_tone(non vib.)_A_01.wav",
+        "A2":"xiaonvb/xiao_tone(non vib.)_A_02.wav",
+        "D1":"xiaonvb/xiao_tone(non vib.)_D_01.wav",
+        "D2":"xiaonvb/xiao_tone(non vib.)_D_02.wav",
+        "G1":"xiaonvb/xiao_tone(non vib.)_G_01.wav",
+        "G2":"xiaonvb/xiao_tone(non vib.)_G_02.wav"
     },
         "yunluo": [
             "yunluo/yunluo_long.wav",
